@@ -13,6 +13,6 @@
 
 - Jarzilla (jarzilla)
 - Popcorn Time (popcorn-time)
-- Winebottler (winebottler)
+- Wine OSX (wine-osx)
 - Acestream for OSX (acestream-osx)
 - SQLDeveloper (sqldeveloper)

@@ -11,6 +11,7 @@
 
 ## List of available casks
 
+- Oracle JDK 7
 - Jarzilla (jarzilla)
 - Popcorn Time (popcorn-time)
 - Wine OSX (wine-osx)

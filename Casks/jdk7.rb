@@ -8,4 +8,6 @@ cask 'jdk7' do
   license :unknown
 
   pkg 'JDK 7 Update 79.pkg'
+
+  # TODO: [JUANJO] Uninstallation Instructions
 end

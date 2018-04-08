@@ -5,7 +5,6 @@ cask 'jdk8' do
   url "https://dl.dropboxusercontent.com/u/7116/jdk-8u91-macosx-x64.dmg"
   name 'Oracle JDK 8'
   homepage 'http://www.oracle.com/technetwork/es/java/javase/downloads/index.html'
-  license :unknown
 
   pkg 'JDK 8 Update 91.pkg'
 

@@ -13,7 +13,4 @@
 
 - Oracle JDK 7, 8 (jdk7, jdk8)
 - Jarzilla (jarzilla)
-- Popcorn Time (popcorn-time)
-- Wine OSX (wine-osx)
-- Acestream for OSX (acestream-osx)
 - SQLDeveloper (sqldeveloper)

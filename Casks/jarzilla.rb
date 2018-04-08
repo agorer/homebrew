@@ -5,7 +5,6 @@ cask 'jarzilla' do
   url "https://dl.dropboxusercontent.com/u/7116/Jarzilla.zip"
   name 'Jarzilla'
   homepage 'https://github.com/depsypher/jarzilla'
-  license :unknown
 
   app 'Jarzilla.app'
 end

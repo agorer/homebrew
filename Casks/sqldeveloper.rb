@@ -5,7 +5,6 @@ cask 'sqldeveloper' do
   url "https://dl.dropboxusercontent.com/u/7116/sqldeveloper-4.1.3.20.78.zip"
   name 'SQLDeveloper'
   homepage 'https://github.com/depsypher/jarzilla'
-  license :unknown
 
   app 'SQLDeveloper.app'
 end
